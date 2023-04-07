@@ -56,10 +56,15 @@ Template for the service :
 ## Creating Applications
 
 We now create our application (or microservice) :
+
 ![](https://i.imgur.com/7LMm2L2.png)
+
 Our pods are running :
+
 ![](https://i.imgur.com/YBChWJJ.png)
+
 And our service is running :
+
 ![](https://i.imgur.com/D7pA93V.png)
 
 We continue writing our variable files and installing the microservices in our kubernetes cluster .
