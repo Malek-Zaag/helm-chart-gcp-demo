@@ -16,6 +16,7 @@ Helm charts allow developers to package their microservices into reusable compon
 
 For the sake of this demo we are going to use GCP microservices application demo :
 https://github.com/GoogleCloudPlatform/microservices-demo
+
 We start by clearing boilerplate code :
 
 ![](https://lh3.googleusercontent.com/R7rZVMgkvORqAxSsn0Z6Ux5H8IGZZ2Lv9f5qzTu2Ne7J8jp2xsXXon6TmWtJy7AgbDjqLS0PhVWeg3rSyCmDPpN7YrnQA9LByRWcMX-DAg4eLwpMINlbBzWNgsmesJt3UGYcbBB05srfOXegzFBX-vs)
